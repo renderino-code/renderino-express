@@ -1,0 +1,19 @@
+{
+  "name": "renderino-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renderino-code/renderino-express.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renderino-code/renderino-express/issues"
+  },
+  "homepage": "https://github.com/renderino-code/renderino-express#readme"
+}
