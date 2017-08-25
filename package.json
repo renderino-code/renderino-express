@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/renderino-code/renderino-express/issues"
   },
-  "homepage": "https://github.com/renderino-code/renderino-express#readme"
+  "homepage": "https://github.com/renderino-code/renderino-express#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
 }
